@@ -20,7 +20,7 @@ window.addEventListener("keypress", (e)=>{
       break;
     case "KeyD":
       vx+= 3
-      e.DOM_KEY_LOCATION_STANDARD()
+      // e.DOM_KEY_LOCATION_STANDARD()
       break;
     case "KeyW":
       if(jumps>0){
