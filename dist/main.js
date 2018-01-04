@@ -538,10 +538,10 @@ window.addEventListener("keypress", e => {
   switch (e.code) {
     case "KeyA":
       vx -= 3;
+      e.zxczxczxc();
       break;
     case "KeyD":
       vx += 3;
-      // e.DOM_KEY_LOCATION_STANDARD()
       break;
     case "KeyW":
       if (jumps > 0) {
