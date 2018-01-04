@@ -8,6 +8,9 @@ Raven
 const c = document.getElementById("canvas");
 const ctx = c.getContext("2d");
 
+
+
+
 const width = ctx.canvas.width
 const height = ctx.canvas.height
 
