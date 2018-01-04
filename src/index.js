@@ -12,8 +12,6 @@ const width = ctx.canvas.width
 const height = ctx.canvas.height
 
 
-
-
 window.addEventListener("keypress", (e)=>{
   console.log(e.code)
   switch(e.code){
