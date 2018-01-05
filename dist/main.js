@@ -524,7 +524,7 @@ module.exports = {
 var Raven = __webpack_require__(3);
 
 Raven.config('http://ff06d796c37b45eca667421adab78205@maxb.ngrok.io/5', {
-  release: '1.4.0'
+  release: '1.5.0'
 }).install();
 
 const c = document.getElementById("canvas");
@@ -538,7 +538,7 @@ window.addEventListener("keypress", e => {
   switch (e.code) {
     case "KeyA":
       vx -= 3;
-      e.zxczxczxc();
+      e.ppppppppp3();
       break;
     case "KeyD":
       vx += 3;
